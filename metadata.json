@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "Modern interactive developer portfolio showcasing featured projects, technical skills matrix, career timeline, and contact channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
